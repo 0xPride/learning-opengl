@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      ".obj/src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/pride/learn/opengl",
+    "file": "/home/pride/learn/opengl/src/main.c",
+    "output": "/home/pride/learn/opengl/.obj/src/main.o"
+  }
+]
